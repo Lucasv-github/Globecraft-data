@@ -1,0 +1,10 @@
+Harrlod:  R: 159 G: 144 B: 27
+Ricky_A_morty:  R: 129 G: 134 B: 100
+BelowZero_o:  R: 26 G: 204 B: 187
+Cook1e5:  R: 128 G: 19 B: 214
+_Viq_:  R: 61 G: 221 B: 74
+TheEggMeat:  R: 246 G: 58 B: 184
+Puppy_QT:  R: 110 G: 128 B: 47
+ValusTaaurc:  R: 93 G: 247 B: 88
+mr_new_burger:  R: 227 G: 230 B: 229
+_ZHH_:  R: 174 G: 168 B: 21
