@@ -1,0 +1,4 @@
+TheBelowZer0:  R: 127 G: 120 B: 49
+mr_new_burger:  R: 141 G: 31 B: 51
+Dr_Glibbo:  R: 248 G: 212 B: 237
+Ricky_A_morty:  R: 148 G: 44 B: 24
