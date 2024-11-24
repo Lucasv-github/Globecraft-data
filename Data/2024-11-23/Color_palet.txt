@@ -1,0 +1,14 @@
+Ricky_A_morty:  R: 42 G: 55 B: 224
+_Viq_:  R: 83 G: 57 B: 28
+owen_1571:  R: 235 G: 78 B: 175
+TheEggMeat:  R: 164 G: 242 B: 13
+Axeinty:  R: 150 G: 20 B: 209
+ryxe01:  R: 226 G: 102 B: 99
+Cook1e5:  R: 247 G: 114 B: 201
+MCList:  R: 29 G: 100 B: 183
+Harrlod:  R: 77 G: 143 B: 192
+Alfred_HE:  R: 165 G: 31 B: 15
+RookDZollex:  R: 66 G: 170 B: 168
+MM1kael:  R: 113 G: 57 B: 173
+GRANBORD:  R: 195 G: 72 B: 65
+BurekSlayer:  R: 192 G: 136 B: 171
