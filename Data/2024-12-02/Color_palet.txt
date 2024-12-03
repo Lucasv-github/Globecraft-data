@@ -1,0 +1,5 @@
+Puppy_QT:  R: 117 G: 4 B: 87
+SnapackJack:  R: 93 G: 169 B: 44
+PopeAston:  R: 131 G: 8 B: 66
+_Viq_:  R: 193 G: 72 B: 248
+mrefexx:  R: 119 G: 108 B: 75
