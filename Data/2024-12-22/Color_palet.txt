@@ -1,0 +1,5 @@
+MCList:  R: 224 G: 66 B: 185
+mr_new_burger:  R: 127 G: 54 B: 12
+RookDZollex:  R: 114 G: 220 B: 88
+SleepyBalkan_:  R: 32 G: 193 B: 107
+MechaMax1230:  R: 225 G: 110 B: 2
