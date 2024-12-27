@@ -1,0 +1,5 @@
+MCList:  R: 214 G: 187 B: 129
+KosmikStar:  R: 243 G: 62 B: 128
+LiamMinedOnB1:  R: 220 G: 123 B: 232
+Blitz255:  R: 177 G: 102 B: 104
+RookDZollex:  R: 6 G: 169 B: 193
