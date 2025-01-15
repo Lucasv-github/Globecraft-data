@@ -1,0 +1,6 @@
+MetricSystemn:  R: 113 G: 231 B: 54
+Teaisgooood:  R: 223 G: 97 B: 7
+FossilD:  R: 20 G: 162 B: 3
+MAT_five:  R: 70 G: 3 B: 40
+mr_new_burger:  R: 253 G: 62 B: 219
+MCList:  R: 173 G: 247 B: 13
